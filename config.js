@@ -51,9 +51,9 @@ module.exports = {
   
   START_MSG: process.env.START_MSG || `🚀 *_SAHAS-MD Connected Successfully!_* ✅ 
 
---- *👨‍💻🎉 _Welcome to SAHAS-MD!_* 🎉💗 
+--- *👨‍💻🎉 _Welcome to Radha Rani!_* 🎉💗 
 
-*🔹 PREFIX:* .
+*🔹 PREFIX:* .Radha Rani
 
 *🔹 OWNER:* 916201114061
 
