@@ -3,7 +3,7 @@ require("dotenv").config();
 
 module.exports = {
   //==========================================- MAIN - CONFIGS -==================================================================
-  SESSION_ID: process.env.SESSION_ID || "Put Session Id",
+  SESSION_ID: process.env.SESSION_ID || "QHlR2LyJ#IYvK3-MQ1K7P5doAmv20AV6Ig1cljl3I937bpYAxfvA",
   // ADD Your Session Id 
   MONGODB: process.env.MONGODB || "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/",
     // ADD Your MongoDB Database URL
@@ -15,7 +15,7 @@ module.exports = {
   // public = AnyOne Working
   // inbox = Only Working  Inbox
   // groups = only working in group
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "916201114061",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "919728893187",
   //========================================- OTHER - CONFIGS -=====================================================================
   AUTO_VOICE: process.env.AUTO_VOICE || "true",
   ANTI_BAD_WORDS_ENABLED: process.env.ANTI_BAD_WORDS_ENABLED || "true",
@@ -29,8 +29,8 @@ module.exports = {
   ALWAYS_RECORDING: process.env.ALWAYS_RECORDING || "true",
   ANTI_BOT: process.env.ANTI_BOT || "true",
   ANTI_DELETE: process.env.ANTI_DELETE || "true",
-  packname: process.env.packname || "SAHAS TECH",
-  author: process.env.author || "SAHAS TECH",
+  packname: process.env.packname || "Alone💔😓👈",
+  author: process.env.author || "Alone",
   //==========================================- API-CONFIGS -==========================================================
   OPENWEATHER_API_KEY: process.env.OPENWEATHER_API_KEY || "2d61a72574c11c4f36173b627f8cb177", //openweathermap.org
   ELEVENLABS_API_KEY: process.env.ELEVENLABS_API_KEY || "sk_6438bcc100d96458f8de0602aec662f4ba14b905fd090ad3", //elevenlabs.io
@@ -53,9 +53,9 @@ module.exports = {
 
 --- *👨‍💻🎉 _Welcome to Radha Rani!_* 🎉💗 
 
-*🔹 PREFIX:* .Radha Rani
+*🔹 PREFIX:* "."
 
-*🔹 OWNER:* 916201114061
+*🔹 OWNER:* 919728893187
 
 
 _Thank you for using_ *👨‍💻SAHAS-MD💗.*
